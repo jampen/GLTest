@@ -2,7 +2,7 @@
 ##### A utility program for checking that your machine supports OpenGL 2 and above
 
 Example of running this software:
->./a.out
+>./a.out  
 >GL_VENDOR: NVIDIA Corporation  
 >GL_RENDERER: NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2  
 >GL_VERSION: 4.6.0 NVIDIA 525.85.05  
