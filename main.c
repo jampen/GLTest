@@ -5,7 +5,6 @@ int main() {
     if (glfwInit() == GLFW_FALSE) return 1;
     // Not actually used for drawing to
     glfwWindowHint(GLFW_VISIBLE, GLFW_FALSE);
-
     // glGetString requires OpenGL 2.0
     glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 2);
     GLFWwindow* window = glfwCreateWindow(128, 128, "GLTest", NULL, NULL);
