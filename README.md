@@ -3,9 +3,9 @@
 
 Example of running this software:
 >./a.out
->GL_VENDOR: NVIDIA Corporation
->GL_RENDERER: NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2
->GL_VERSION: 4.6.0 NVIDIA 525.85.05
+>GL_VENDOR: NVIDIA Corporation  
+>GL_RENDERER: NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2  
+>GL_VERSION: 4.6.0 NVIDIA 525.85.05  
 
 ##### Compilation:
 To compile this program, run this in your command line:
