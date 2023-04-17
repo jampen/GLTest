@@ -1,5 +1,5 @@
 ### gltest
-##### A utility program for checking that your machine supports OpenGL 2 and above
+##### A utility program that prints the vendor, renderer and version of OpenGL of your machine, if supported.
 
 Example of running this software:
 >./a.out  
@@ -11,5 +11,5 @@ Example of running this software:
 To compile this program, run this in your command line:
 >cc main.c -lglfw -lGL
 
-GLFW is required for this program. To install GLFW, run this in your command line:
+GLFW is a required library for this program. To install GLFW, run this in your command line:
 >sudo apt install libglfw3-dev
